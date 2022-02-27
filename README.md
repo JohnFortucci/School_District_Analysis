@@ -117,3 +117,9 @@ This is no significant impact , when the output is rounded to 1 decimal place , 
 ## Summary
 
 There is no significant change in the school district analysis with the removal of 9th Grade math and reading for Thomas High School. Changes are only significant when you include the student count of the 9th grade for Thomas High School. But based on the instructions when had to elimiante these.
+
+The following can be concluded :- 
+
+- Thomas High School average and percentages had minimal change 
+- The overall school district results changes are minimal , average math sore decreased by less than 0.1 , perecentage passing maths , reading and overall passing decreased slightly.
+ 
