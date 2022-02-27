@@ -112,3 +112,8 @@ This is no significant impact , when the output is rounded to 1 decimal place , 
 
 ##### Modified
 ![Type_modified](/Resources/Type_modified.png)
+
+
+## Summary
+
+There is no significant change in the school district analysis with the removal of 9th Grade math and reading for Thomas High School. Changes are only significant when you include the student count of the 9th grade for Thomas High School. But based on the instructions when had to elimiante these.
