@@ -10,14 +10,15 @@ With the values of the new analysis , we will review both sets of data to unders
 
 ### Confirm data has been correctly modified
 
-We have been asked to eliminate the math and reading score have been eliminated. To do this we will replace the math and reading score with a NaN values. 
+We have been asked to eliminate the math and reading score for Thomas High School's 9th grade. To do this we will replace the math and reading score with a NaN values. 
+
 The tables below show a summary snapshot of the data :- 
 - Before the data is modified 
 - After the data has been modified.
 
-![Summary count before change](/Resources/Summary_before.png)
+![Summary count before change](/Resources/Summary_before.png)![Summary count after change](/Resources/Summary_after.png)
 
-![THS Summary before change](/Resources/Summary_before_THS.png)
+![THS Summary before change](/Resources/Summary_before_THS.png)![THS Summary after change](/Resources/Summary_after_THS.png)
 
 ![Summary count after change](/Resources/Summary_after.png)
 
