@@ -59,10 +59,19 @@ It can be seen that there is a minimal movement in some of the summary data.
 From the image below it can be see that the only impact to the school summary if to the school where the 9th grade results are eliminated (Thomas High School).
 ![School summary comparison](/Resources/School_summary_comparison.png)
 
-If we look into the results if Thomas High School the change is minimal 
+If we look into the results if Thomas High School the change is minimal , it should be noted that when you include that 9th grade students in the calculations , the change is significant , but when you only include 10th ,11th and 12th grade the changes are minimal. The comparison below is based on comparing with calculations that do not include 9th grade student counts.
 
 ##### Original data set
 ![School summary THS orginal](/Resources/School_summary_THS_orginal.png)
 
 ##### Modified data set
 ![School summary THS modified](/Resources/School_summary_THS_modified.png)
+
+It can be seen that there is a minimal movement in some of the summary data.
+- Average math score decreased by approximately 0.06
+- Average math score increase by approximately 0.05
+- Percentage passing maths decresed by approximately 0.1%
+- Perecentage passing reading decreased by 0.3%
+- Percentage overall passing decreased by 0.3%
+
+#### New comparison and impact relative to other schools
