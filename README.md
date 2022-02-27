@@ -60,3 +60,9 @@ From the image below it can be see that the only impact to the school summary if
 ![School summary comparison](/Resources/School_summary_comparison.png)
 
 If we look into the results if Thomas High School the change is minimal 
+
+#####Original data set
+![School summary THS orginal](/Resources/School_summary_THS_orginal.png)
+
+#####Modified data set
+![School summary THS modified](/Resources/School_summary_THS_modified.png)
