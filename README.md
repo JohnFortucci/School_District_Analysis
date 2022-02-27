@@ -14,4 +14,4 @@ We have been asked to eliminate the math and reading score have been eliminated.
 The tables below show a summary snapshot of the data :- 
 - Before the data is modified 
 - After the data has been modified.
-- 
+
