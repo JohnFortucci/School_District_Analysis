@@ -57,4 +57,4 @@ It can be seen that there is a minimal movement in some of the summary data.
 #### Impact on school Summary
 
 From the image below it can be see that the only impact to the school summary if to the school where the 9th grade results are eliminated.
-
+![School summary comparison](/Resources/School_summary_comparison.png)
