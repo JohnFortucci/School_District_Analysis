@@ -15,3 +15,10 @@ The tables below show a summary snapshot of the data :-
 - Before the data is modified 
 - After the data has been modified.
 
+![Summary count before change](/Resources/Summary_before.png)
+
+![THS Summary before change](/Resources/Summary_before_THS.png)
+
+![Summary count after change](/Resources/Summary_after.png)
+
+![THS Summary after change](/Resources/Summary_after_THS.png)
