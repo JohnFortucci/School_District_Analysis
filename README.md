@@ -50,7 +50,7 @@ To the modfied district summary with the data set modified to remove 9th grade T
 
 It can be seen that there is a minimal movement in some of the summary data.
 - Average math score decreased by 0.1
-- Percentage passing maths decresed by 0.2%
+- Percentage passing maths decreased by 0.2%
 - Perecentage passing reading decreased by .01%
 - Percentage overall passing decreased by 0.3%
 
@@ -121,5 +121,6 @@ There is no significant change in the school district analysis with the removal 
 The following can be concluded :- 
 
 - Thomas High School average and percentages had minimal change 
-- The overall school district results changes are minimal , average math sore decreased by less than 0.1 , perecentage passing maths , reading and overall passing decreased slightly.
- 
+- The overall school district results changes are minimal change
+- The overall ranking remained the same
+- All other metrics changed slightly , but this could not be seen unless we went beyond 1 decimal place.
