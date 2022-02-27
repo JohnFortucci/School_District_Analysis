@@ -59,7 +59,7 @@ It can be seen that there is a minimal movement in some of the summary data.
 From the image below it can be see that the only impact to the school summary if to the school where the 9th grade results are eliminated (Thomas High School).
 ![School summary comparison](/Resources/School_summary_comparison.png)
 
-If we look into the results if Thomas High School the change is minimal , it should be noted that when you include that 9th grade students in the calculations , the change is significant , but when you only include 10th ,11th and 12th grade the changes are minimal. The comparison below is based on comparing with calculations that do not include 9th grade student counts.
+If we look into the results if Thomas High School the change is minimal , it should be noted that when you include that 9th grade students in the calculations , the change is significant , but when you only include 10th ,11th and 12th grade students the changes are minimal. The comparison below is based on comparing with calculations that do not include 9th grade student counts.
 
 ##### Original data set
 ![School summary THS orginal](/Resources/School_summary_THS_orginal.png)
@@ -75,3 +75,24 @@ It can be seen that there is a minimal movement in some of the summary data.
 - Percentage overall passing decreased by 0.3%
 
 #### New comparison and impact relative to other schools
+
+![Top 5 Comparison](/Resources/Top_5_comparison.PNG)
+
+Based on the above comparison , there is no impact relative to the other schools. Thomas High School remained in the same position
+
+#### Maths and Reading Scores by grade
+
+There is no significant impact on the Maths and Reading score by grade , other than 9th grade for Thomas HIgh School has no value.
+
+#### Impact on scores by school spending
+
+This is no significant impact , when the output is rounded to 1 decimal place , you can only see a slight difference when you go to 2 decimal places.
+
+#### Impact on scores by school size
+
+This is no significant impact , when the output is rounded to 1 decimal place , you can only see a slight difference when you go to 2 decimal places.
+
+
+#### Impact on scores by school type
+
+This is no significant impact , when the output is rounded to 1 decimal place , you can only see a slight difference when you go to 2 decimal places.
