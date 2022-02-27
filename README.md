@@ -88,11 +88,27 @@ There is no significant impact on the Maths and Reading score by grade , other t
 
 This is no significant impact , when the output is rounded to 1 decimal place , you can only see a slight difference when you go to 2 decimal places.
 
+##### Original
+![Spending_original](/Resources/Spending_original.png)
+
+##### Modified
+![Spending_modified](/Resources/Spending_modified.png)
 #### Impact on scores by school size
 
 This is no significant impact , when the output is rounded to 1 decimal place , you can only see a slight difference when you go to 2 decimal places.
 
+##### Original
+![Size_original](/Resources/Size_original.png)
+
+##### Modified
+![Size_modified](/Resources/Size_modified.png)
 
 #### Impact on scores by school type
 
 This is no significant impact , when the output is rounded to 1 decimal place , you can only see a slight difference when you go to 2 decimal places.
+
+##### Original
+![Type_original](/Resources/Type_original.png)
+
+##### Modified
+![Type_modified](/Resources/Type_modified.png)
