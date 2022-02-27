@@ -39,3 +39,18 @@ After the data set was modified , we can see that :-
 - There are 461 NaN values for math and reading for Thomas High School 9th Grade
 
 From the above we can conclude that the data has been modified correctly.
+
+#### Impact on district Summary
+
+Comparing the original district summary below
+![District sumamry original](/Resources/District_summary_original.png)
+
+To the modfied district summary with the data set modified to remove 9th grade Thomas High School maths and reading scores below.
+![District sumamry original](/Resources/District_summary_modified.png)
+
+It can be seen that there is a minimal movement in some of the summary data.
+- Average math score decreased by 0.1
+- Percentage passing maths decresed by 0.2%
+- Perecentage passing reading decreased by .01%
+- Percentage overall passing decreased by 0.3%
+- 
